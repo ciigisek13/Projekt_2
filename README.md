@@ -46,3 +46,4 @@ Při tréninku jsme hráli hru, kde byla důležitá rychlost a právě naše re
 - GOOGLE. Google Gemini. Online. Dostupné z: https://gemini.google.com/app?hl=cs. [cit. 2026-05-15].
 - MicroPython. Online. Dostupné z: https://micropython.org. [cit. 2026-05-15].
 - BlazePod Reaction Lights. Online. Dostupné z: https://blazepod.eu. [cit. 2026-05-15].
+- Inspirace, podobný projekt. Online. Dostupné z: https://www.youtube.com/watch?v=fanmgtpO3IQ. [cit. 2026-05-15].
