@@ -40,3 +40,9 @@ Pokud je někdo kutil a chce pouze nějaký zajimavý projekt a není to seriozn
 Projekt mám pouze jako návod jak toto zařízení udělat, sám sem ho nevytvořil. Pokud bych v budoucnu chtěl toto vytvořit tak můžu využít tento projekt jako návod.
 ## Proč právě zařízení na měření reakčního času
 Při tréninku jsme hráli hru, kde byla důležitá rychlost a právě naše reakce, tak mě přislo že bych se podíval po internetu jestli existuje něco, co pomáho zlepšovat reakci a narazil sem na BlazePod a přišlo mi to zajímavé, ale poté, co jsem viděl cenovku tak sem si křekl jestli by nebylo lepší si to zkusit vyrobit doma.
+# Citace
+BlazePod. Online. In: . Dostupné z: https://eshop.3dfitness.cz/blazepod-standard-kit/. [cit. 2026-05-15].
+BlazePod Training. Online. In: . Dostupné z: https://www.blazepod.com/blogs/all/5-reasons-blazepod-is-the-ultimate-reaction-training-platform?srsltid=AfmBOoqubukJ-0iQhTMt1HR5dBqbpw83zlyq6ICFGrzDhZDG1ZX3CM07. [cit. 2026-05-15].
+GOOGLE. Google Gemini. Online. Dostupné z: https://gemini.google.com/app?hl=cs. [cit. 2026-05-15].
+MicroPython. Online. Dostupné z: https://micropython.org. [cit. 2026-05-15].
+BlazePod Reaction Lights. Online. Dostupné z: https://blazepod.eu. [cit. 2026-05-15].
