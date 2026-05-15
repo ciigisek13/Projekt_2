@@ -23,3 +23,5 @@ Cílem projektu je vytvořit zařízení, které bude testovat naše reakce. Za�
 - Uzavřený systém
 - Připojení přes bluetooth
 - Jednoduché pro běžné uživatele
+ ![blazepod](blazepod.webp)
+ ![blazepod](blazepod2.jpg)
