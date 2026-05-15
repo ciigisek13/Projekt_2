@@ -36,3 +36,7 @@ Pokud je někdo kutil a chce pouze nějaký zajimavý projekt a není to seriozn
 - K vytvoření kódu jsem použil AI, jelikož nemám takové skušenosti s kódováním
  ![kodik](reakce.png)
  ![kodik2](reakce2.png)
+## Stav projektu
+Projekt mám pouze jako návod jak toto zařízení udělat, sám sem ho nevytvořil. Pokud bych v budoucnu chtěl toto vytvořit tak můžu využít tento projekt jako návod.
+## Proč právě zařízení na měření reakčního času
+Při tréninku jsme hráli hru, kde byla důležitá rychlost a právě naše reakce, tak mě přislo že bych se podíval po internetu jestli existuje něco, co pomáho zlepšovat reakci a narazil sem na BlazePod a přišlo mi to zajímavé, ale poté, co jsem viděl cenovku tak sem si křekl jestli by nebylo lepší si to zkusit vyrobit doma.
