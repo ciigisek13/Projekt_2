@@ -34,3 +34,5 @@ Pokud je někdo kutil a chce pouze nějaký zajimavý projekt a není to seriozn
 - Zapojíme LED diodu anodou přes rezistor a katodou na zem
 - Poté připojíme tlačítko k jednomu pinu a poté na zem
 - K vytvoření kódu jsem použil AI, jelikož nemám takové skušenosti s kódováním
+ ![kodik](reakce.png)
+ ![kodik2](reakce2.png)
