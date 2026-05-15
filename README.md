@@ -19,4 +19,7 @@ Cílem projektu je vytvořit zařízení, které bude testovat naše reakce. Za�
 - Připojení pomocí Wi-Fi
 - Potřeba ho sám sestavit
 ### Komerční
-- 
+- Dražší (+-5000,-)
+- Uzavřený systém
+- Připojení přes bluetooth
+- Jednoduché pro běžné uživatele
