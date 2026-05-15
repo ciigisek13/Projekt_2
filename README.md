@@ -14,7 +14,7 @@ Cílem projektu je vytvořit zařízení, které bude testovat naše reakce. Za�
 - CircuitPython
 ## Porovnání
 ### DIY
--Levnější
+- Levnější
 - Otevřený systém, možnost si cokoliv doprogramovat
 - Připojení pomocí Wi-Fi
 - Potřeba ho sám sestavit
